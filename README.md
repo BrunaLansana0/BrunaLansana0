@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👩🏻‍💻 Bruna Lansana
 
-<!--
-**BrunaLansana0/BrunaLansana0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante Universitária`**
+```
+Olá! Bem-vindo(a) 
 
-Here are some ideas to get you started:
+Meu nome é Bruna Vieira Lansana, tenho 19 anos. Concluí o ensino médio
+e atualmente estou cursando Análise de Deselvolvimento de Sistemas
+na Universidade Metodista de São Paulo. Pretendo ingressar na área de trabalho o
+quanto antes para aplicar meus conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+<br/>
+
+### 🌐 TÉCNOLOGIAS
+
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+ />
+
+<img 
+  align="left"
+  alt="Html"
+  title="Html"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+
+<br/>
+<br/>
+
